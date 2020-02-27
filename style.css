@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', 'sans-serif';
+}
+.container{
+    margin-bottom: 30px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.prices{
+    font-weight: 900;
+    color: black;
+}
+.product-cat-title a{
+    color: #FF9D00;
+    font-weight: 700;
+}
+.card {
+    border: none;
+    box-shadow: 0px 5px 10px gray;
+    border-radius: 5px;
+}
+.card-title{
+    font-weight: 700;
+}
+.category-beauty{
+    margin-bottom: 30px;
+}
+.categories{
+    margin-bottom: 30px;
+}
+.category-underline{
+    width: 160px;
+    height: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(250deg, #ff9c35 0%, #ffd019 100%);
+    margin-left: -155px;
+    margin-top: 40px;
+}
